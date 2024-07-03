@@ -1,4 +1,4 @@
-﻿using Humanizer;
+﻿
 using WebApiPruebaInalambria.Model;
 namespace WebApiPruebaInalambria.Backend
 {
