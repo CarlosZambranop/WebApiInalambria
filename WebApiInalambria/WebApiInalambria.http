@@ -1,0 +1,6 @@
+@WebApiInalambria_HostAddress = http://localhost:5120
+
+GET {{WebApiInalambria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
