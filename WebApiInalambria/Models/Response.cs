@@ -2,6 +2,6 @@
 {
     public class Response
     {
-        public string StringResponse { get; set; }
+        public string? StringResponse { get; set; }
     }
 }
